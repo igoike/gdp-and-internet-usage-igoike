@@ -58,6 +58,3 @@
 96. Repeat this one more time to look at 10-year trend for the 5 countries for 2014 with the lowest GDP per capita.
 30.	Is there anything surprising or unusual in any of these plots? Searching on the internet, can you find any possible explanations for unusual findings?
 
-
-### Bonus exercise:
-1.    Download another data set from the UN data (http://data.un.org/Explorer.aspx) to merge with your data and explore.
